@@ -1,0 +1,32 @@
+/*
+Theme Name: Twenty Twenty-One Child
+Theme URI: http://example.com/twentytwentyone-child/
+Description: A child theme of Twenty Twenty-One
+Author: Branko Borilovic
+Template: twentytwentyone
+Version: 1.0.0
+*/
+
+.footer-social {
+    text-align: center;
+    margin: auto;
+}
+
+.social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-links a {
+    color: #333;
+    text-decoration: none;
+}
+.social-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
